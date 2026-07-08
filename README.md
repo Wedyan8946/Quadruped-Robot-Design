@@ -23,5 +23,5 @@ Welcome to my first robotics project! This repository contains the 3D mechanical
 ## 📸 Project Status
 - [x] Symmetrical 3D CAD modeling in Tinkercad.
 - [x] Assembly and alignment of the 4 legs.
-- [ ] Uploading the detailed PDF analysis report.
-- [ ] Writing the simulation code for the servo movements.
+- [x] Uploading the detailed PDF analysis report.
+- [x] Writing the simulation code for the servo movements.
